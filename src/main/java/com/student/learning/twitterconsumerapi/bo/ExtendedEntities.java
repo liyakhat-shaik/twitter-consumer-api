@@ -1,4 +1,4 @@
 package com.student.learning.twitterconsumerapi.bo;
 
-public class Constants {
+public class ExtendedEntities {
 }
